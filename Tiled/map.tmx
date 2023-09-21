@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="24" height="20" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="Terrain" tilewidth="64" tileheight="64">
+  <image source="../public_html/tiles.png" width="1472" height="1344"/>
+ </tileset>
+ <layer name="Terrain" width="24" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzF1MsNwyAQBFA4uIqU6Tq2nhxTkakhRgZ5NNplF2Iph5HAwOMnXFJK5cwnX5FW7zlaen0/88pXCpV3GouZ9bFPn+MpH91itGk2+n3syOdobWivnA/eg+fXuig2+zXvfJcx1t56ZGBr/WZytHEjWyC475GJ0Xwx3F98XjObWtjelG98rtaaPb/alu+dR3TtkfVrbyRqP+Frd8o+lmd8z+ZEfO8Nrfg4x6rt+ZF4/tb+n9q9/9u3vC9Ck1ny
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1" width="24" height="20"/>
+</map>
